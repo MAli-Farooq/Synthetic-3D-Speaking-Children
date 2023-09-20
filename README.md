@@ -9,4 +9,4 @@ https://fastpitch.github.io
 
 The last step includes generating Synthetic 3D child Data which is done via diffusion process. The compelete details can be found in provided link
 https://ieeexplore.ieee.org/document/9994681/
-
+https://mstypulkowski.github.io/diffusedheads/
