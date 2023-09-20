@@ -1,5 +1,6 @@
 # Synthetic-3D-Speaking-Children
 ![](data/Output_screenshot_15.08.2023-4.png)
+
 The repo contains the methods for generating and and results of 3D speaking child data
 
 In this work we have used synthetic child data which is generated using ChildGAN architecture. Child GAN is build by oerforming effcient fine-tuning in StyleGAN2. The complete experimental details of CHildGAN can be found in below repo
